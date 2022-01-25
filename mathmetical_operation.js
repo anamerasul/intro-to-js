@@ -16,14 +16,14 @@ var totalEggPrice=eggPrice*eggQuantity;
 // console.log(onionPrice+eggPrice);
 // console.log(totalPrice)
 
-console.log(priceDifference);
-console.log(totalEggPrice);
+// console.log(priceDifference);
+// console.log(totalEggPrice);
 
 var moneyAbileable =100;
 var orangePrice=5;
 var orangequantity=moneyAbileable/orangePrice;
 
-console.log(orangequantity);
+// console.log(orangequantity);
 
 // addtion substruction multiplication division
 
@@ -34,7 +34,18 @@ var secondNumber=0.2;
 var totalNum =firstNumber+secondNumber;
 // console.log(totalNum.toFixed(2));
 // console.log(praseFloat(totalNum);
-totalNum =totalNum.toFixed(2);
-totalNum =parseFloat(totalNum)
-console.log(totalNum)
+// totalNum =totalNum.toFixed(2);
+// totalNum =parseFloat(totalNum);
+// console.log(totalNum);
+var mango =57;
+var eater =12;
+
+
+var remaining= mango % eater;
+var dividing=mango/eater;
+console.log(remaining);
+console.log(dividing);
+
+
+
 
